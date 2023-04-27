@@ -8,6 +8,8 @@
 ![Edit](https://user-images.githubusercontent.com/103280152/234802593-bd122432-318c-408f-b35c-75a5fc135e51.png)
 ![supp](https://user-images.githubusercontent.com/103280152/234802621-e14f4b21-be43-4a18-b672-348354fc2c72.png)
 ![user](https://user-images.githubusercontent.com/103280152/234803101-58d50eaf-399c-415f-b71d-5028de03a980.png)
+![notAuthError](https://user-images.githubusercontent.com/103280152/234803844-9b293699-fb88-4cc8-a42b-b3f1c8f845ea.png)
+
 
 
 
