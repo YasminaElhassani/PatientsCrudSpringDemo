@@ -11,13 +11,13 @@ The "Show All Patients" page displays a list of all patients in the database. Us
 
 ![Admin](https://user-images.githubusercontent.com/103280152/234802364-f3909218-828e-4352-aa7f-dbc42525d6d8.png)
 
-## Interface 4: Add a New Patient
+## Interface 3: Add a New Patient
 The "Add a New Patient" page allows users to add a new patient record to the database.
 
 ![ajout](https://user-images.githubusercontent.com/103280152/234802403-898b5ce7-d8d3-463a-b8e1-c5f7e8fc45d5.png)
 ![ajoutError](https://user-images.githubusercontent.com/103280152/234802536-51758a07-acf4-44a7-b375-72222ef0ec2b.png)
 
-## Interface 3: Search
+## Interface 4: Search
 The index page also has a search functionnality.
 ![chaercher](https://user-images.githubusercontent.com/103280152/234802571-96a38a1a-c420-4f03-8034-59655b51802f.png)
 
@@ -25,9 +25,12 @@ The index page also has a search functionnality.
 The "Update Patient" page allows users to edit an existing patient record in the database.
 
 ![Edit](https://user-images.githubusercontent.com/103280152/234802593-bd122432-318c-408f-b35c-75a5fc135e51.png)
+
+## Interface 6: Delete a patient
+
 ![supp](https://user-images.githubusercontent.com/103280152/234802621-e14f4b21-be43-4a18-b672-348354fc2c72.png)
 
-## Interface 6: Login as normal user
+## Interface 7: Login as normal user
 A normal user is not allowed to add , delete or update a patient record.
 
 ![user](https://user-images.githubusercontent.com/103280152/234803101-58d50eaf-399c-415f-b71d-5028de03a980.png)
