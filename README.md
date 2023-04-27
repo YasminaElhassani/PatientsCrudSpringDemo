@@ -6,7 +6,7 @@ The login page allows users to log in to the application using their username an
 ![authentification](https://user-images.githubusercontent.com/103280152/234799939-a24a177b-de98-4110-a0ce-59308be81ed0.png)
 ![auth2](https://user-images.githubusercontent.com/103280152/234802448-cb517f83-8903-4914-9602-d73afd7ff66c.png)
 
-##Interface 2: Show All Patiens
+## Interface 2: Show All Patiens
 The "Show All Patients" page displays a list of all patients in the database. Users can view patient details and edit or delete individual records.
 
 ![Admin](https://user-images.githubusercontent.com/103280152/234802364-f3909218-828e-4352-aa7f-dbc42525d6d8.png)
@@ -27,7 +27,7 @@ The "Update Patient" page allows users to edit an existing patient record in the
 ![Edit](https://user-images.githubusercontent.com/103280152/234802593-bd122432-318c-408f-b35c-75a5fc135e51.png)
 ![supp](https://user-images.githubusercontent.com/103280152/234802621-e14f4b21-be43-4a18-b672-348354fc2c72.png)
 
-##Interface 6: Login as normal user
+## Interface 6: Login as normal user
 A normal user is not allowed to add , delete or update a patient record.
 
 ![user](https://user-images.githubusercontent.com/103280152/234803101-58d50eaf-399c-415f-b71d-5028de03a980.png)
