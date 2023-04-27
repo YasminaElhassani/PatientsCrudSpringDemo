@@ -1,3 +1,6 @@
+# Compte rendu : 
+
+The purpose of this project is to create a web application that enables efficient management of patient records. Through this application, users can seamlessly perform essential tasks such as viewing, adding, modifying, and removing patient information.
 # PatientsCrudSpringDemo
 # Interaces
 ## Interface 1: Login Page
